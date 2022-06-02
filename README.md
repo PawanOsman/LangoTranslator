@@ -2,7 +2,7 @@
 
 **Lango Translator** is a free Translation chat bot in Facebook Messenger, it provide a free translation api.
 
-# How to use Lang Translator API?
+# How to use Lango Translator API?
 Lango Translator api provide you both Google Translate and Microsoft Translator api 
 
 you can use it by sending `HTTP GET` Request to endpoints below:
