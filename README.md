@@ -11,8 +11,8 @@ you can use it by sending `HTTP GET` Request to endpoints below:
 
 | Query | Definition |
 |--|--|
-| from | The language of Text Query[ \[Language Codes\]](https://cloud.google.com/translate/docs/languages)|
-| to | The Language you want to translate to [ \[Language Codes\]](https://cloud.google.com/translate/docs/languages)|
+| from | The language of Text Query [\[Language Codes\]](https://cloud.google.com/translate/docs/languages)|
+| to | The Language you want to translate to [\[Language Codes\]](https://cloud.google.com/translate/docs/languages)|
 | text | The text or paragraph you want translate |
 
 
@@ -28,8 +28,8 @@ You will get json response like this:
 
 | Query | Definition |
 |--|--|
-| from | The language of Text Query [ \[Language Codes\]](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/language-support)|
-| to | The Language you want to translate to [ \[Language Codes\]](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/language-support)|
+| from | The language of Text Query [\[Language Codes\]](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/language-support)|
+| to | The Language you want to translate to [\[Language Codes\]](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/language-support)|
 | text | The text or paragraph you want translate |
 
 
