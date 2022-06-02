@@ -33,7 +33,7 @@ You will get json response like this:
 | text | The text or paragraph you want translate |
 
 
-GET https://api.pawan.krd/mtranslate?from=en&to=ckb&text=hello
+GET https://api.pawan.krd/mtranslate?from=en&to=ku&text=hello
 
 **Response**
 You will get json response like this:
